@@ -27,10 +27,7 @@ Create a git repository titled `m14-hw14-lastname-firstname` and clone the repo 
 You may use **minimal** amounts of your own CSS as necessary to change details like fonts and colors to stylize your site to your liking. Avoid using custom CSS as much as possible.
 
 &nbsp;
-## Deployment
-
-
-##Components Added
+## Components Added
 
 *Cards
 *Button
