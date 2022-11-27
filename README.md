@@ -29,23 +29,9 @@ You may use **minimal** amounts of your own CSS as necessary to change details l
 &nbsp;
 ## Deployment
 
-Your code must be deployed to GitHub Pages. To deploy a repository to GitHub pages you must:
 
-1. Ensure your repository has an `index.html` file in the root directory.
-1. Navigate to the `settings` section of the repository.
-1. Click on `pages` in the left navigation menu.
-1. Under `source` click the dropdown and select your `master` or `main` branch.
-1. Click `save`.
+##Components Added
 
-Your site should be deployed to `<your github username>.github.io/<your repository name>` in 5-10 minutes.
-
-&nbsp;
-## Submission
-
-Please submit both a link to your repository and a link to the live site. Also please include any comments on stumbling blocks or difficulties encountered while completing the assignment.
-
-&nbsp;
-## Resources
-
-* [Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-* [Bootstrap Grid System on W3 Schools](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)
+*Cards
+*Button
+*Carousel
