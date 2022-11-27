@@ -29,6 +29,6 @@ You may use **minimal** amounts of your own CSS as necessary to change details l
 &nbsp;
 ## Components Added
 
-*Cards
-*Button
-*Carousel
+* Cards
+* Button
+* Carousel
