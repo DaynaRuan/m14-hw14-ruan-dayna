@@ -1,0 +1,55 @@
+.container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mt-0 {
+    margin-top: 0 !important;
+}
+
+.carousel .item {
+    height: 300px;
+  }
+  
+  .item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px;
+  }
+
+  .card{
+    margin-top: 30px;
+      }
+    
+  .modal{
+    position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px;
+  }
+  
+  
+
+@media screen and (max-width: 1100px) {
+    .carousel {
+        width: 400px; 
+        height: auto; 
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+          }
+    }
+
+    .container{
+        display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px ;
+    }
+
+
+
+    
